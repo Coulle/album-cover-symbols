@@ -5,4 +5,5 @@
 <path id="c" d="M 100,56 a 41, 43.5, 0, 0, 0, 1, 87" style="stroke:#000; stroke-width:16px; fill:none;"/>
 <use xlink:href="#c" x="38"/>
 <use xlink:href="#c" x="76"/>
+
 </svg>
