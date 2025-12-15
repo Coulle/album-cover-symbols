@@ -1,0 +1,15 @@
+# Album Cover Symbols
+
+- [Anti Piracy](/Assets/Anti%20Piracy/)
+    - [FBI](/Assets/Anti%20Piracy/FBI/)
+- [Certificate](/Assets/Certificate/)
+- [Hazard Pictograms](/Assets/Hazard%20Pictograms/)
+    - [Physical Hazard](/Assets/Hazard%20Pictograms/Physical%20Hazard/)
+    - [Radioactive](/Assets/Hazard%20Pictograms/Radioactive/)
+- [IATSE](/Assets/International%20Alliance%20of%20Theatrical%20Stage%20Employees/)
+- [Parental Guidance](/Assets/Parental%20Guidance/)
+    - [ESRB](/Assets/Parental%20Guidance/ESRB%20[SVG]/)
+    - [MPAA](/Assets/Parental%20Guidance/MPAA%20[SVG]/)
+    - [Parental Advisory](/Assets/Parental%20Guidance/Parental%20Advisory%20Stickers%20[PNG]/)
+    - [PEGI](/Assets/Parental%20Guidance/PEGI%20[SVG]/)
+- [Safety Symbols](/Assets/Safety%20Symbols/)
