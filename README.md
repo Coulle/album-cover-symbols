@@ -13,3 +13,14 @@
     - [Parental Advisory](/Assets/Parental%20Guidance/Parental%20Advisory%20Stickers%20[PNG]/)
     - [PEGI](/Assets/Parental%20Guidance/PEGI%20[SVG]/)
 - [Safety Symbols](/Assets/Safety%20Symbols/)
+
+
+All logos, trademarks, and brand assets displayed in this repository
+are the property of their respective owners.
+
+This repository is not affiliated with, endorsed by, or sponsored by
+any of the trademark holders.
+
+No rights are claimed over the trademarks or logos included herein.
+Use of these assets may be subject to trademark, copyright, or other laws.
+Users are responsible for ensuring their own compliance.
